@@ -3,9 +3,15 @@
 I'm 14 years old !
 
 # 🔔 About me: 
-I programming web site, web app and mobile app
+I have been programming web sites, web app and mobile app for two years.
 
-#  💾 TECHNOLOGIES: 
+# 🔫 My targets:
+ - Junior frontend developer
+ - have a better level of English
+
+
+
+#  💾 My frontend skills: 
 
 - HTML
 - CSS
@@ -13,6 +19,11 @@ I programming web site, web app and mobile app
 - REACT.JS
 - REACT NATIVE
 - BOOTSTRAP
+
+# 👨‍🔧 My other skills: 
+- English B1
+- climbing
+- skiing
 
 # 💻 My website:
 - https://gabrieldev.gabrys564.repl.co/
