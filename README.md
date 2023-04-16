@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Gabrli
-- 👀 I’m interested in Frontend teachnologys
-- 🌱 I’m currently learning React.js and React Native
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# - 👋 Hi, I’m @Gabrli
 
-<!---
-Gabrli/Gabrli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm 14 years old !
+
+# About me: 
+I programming web site, web app and mobile app
+
+# TECHNOLOGIES: 
+
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT.JS
+- REACT NATIVE
+- BOOTSTRAP
