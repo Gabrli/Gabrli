@@ -26,7 +26,7 @@ I have been programming web sites, web app and mobile app for two years.
 - skiing
 
 # 💻 My website:
-- https://gabrieldev.gabrys564.repl.co/
+- https://gabrieldeveloper.gabrys564.repl.co/
 
 # ⭐ My top 3 project: 
 - https://gabrli.github.io/React-game-app/
