@@ -31,7 +31,7 @@ I have been programming web sites, web app and mobile app for two years.
 # ⭐ My top 3 project: 
 - https://gabrli.github.io/React-game-app/
 - https://polites-email-builder.gabrys564.repl.co/
-- https://gabrli.github.io/TodoApp-React.js/
+- https://gabrli.github.io/KanBanApp.github.io/
 
 # 📱 Social Media: 
 - https://www.tiktok.com/@gabrysdev
