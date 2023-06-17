@@ -27,10 +27,17 @@ I have been programming web sites, web app and mobile app for two years.
 # 💻 My website:
 - https://gabrieldeveloper.gabrys564.repl.co/
 
-# ⭐ My top 3 project: 
-- https://gabrli.github.io/React-game-app/
-- https://polites-email-builder.gabrys564.repl.co/
-- https://gabrli.github.io/KanBanApp.github.io/
+# My the best React.js project: 
+https://gabrli.github.io/React-game-app/
+
+# My top 3 vanilia JavaScript projects:
+
+# 1.Polites emial builder
+- https://github.com/Gabrli/Polites-Email-Builder
+# 2.Weather App
+- https://github.com/Gabrli/WeatherApp
+# 3. KanBan app
+- https://github.com/Gabrli/KanBanApp.github.io
 
 # 📱 Social Media: 
 - https://www.tiktok.com/@gabrysdev
