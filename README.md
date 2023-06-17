@@ -17,7 +17,6 @@ I have been programming web sites, web app and mobile app for two years.
 - CSS
 - JAVASCRIPT
 - REACT.JS
-- REACT NATIVE
 - BOOTSTRAP
 
 # 👨‍🔧 My other skills: 
