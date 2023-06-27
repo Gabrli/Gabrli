@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 <div id="badges" align="center">
  <a href="https://gabrieldeveloper.gabrys564.repl.co/">
    <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
