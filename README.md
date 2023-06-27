@@ -1,43 +1,21 @@
-#  👋 Hi, I’m @Gabrli
+<div id="header" align="center">
+  <h1>Gabriel Wiśniewski</h1>
 
-I'm 14 years old !
-
-# 🔔 About me: 
-I have been programming web sites, web app and mobile app for two years.
-
-# 🔫 My targets:
- - Junior frontend developer
- - have a better level of English
+</div>
 
 
+<div id="badges" align="center">
+ <a href="https://gabrieldeveloper.gabrys564.repl.co/">
+   <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="https://www.instagram.com/gabrl18/">
+   <img src="https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ </a>
+ <a href="https://discord.com/invite/r83JcYSp">
+   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+ </a>
 
-#  💾 My frontend skills: 
-
-- HTML
-- CSS
-- JAVASCRIPT
-- REACT.JS
-- BOOTSTRAP
-
-# 👨‍🔧 My other skills: 
-- English B1
-- climbing
-- skiing
-
-# 💻 My website:
-- https://gabrieldeveloper.gabrys564.repl.co/
-
-# My the best React.js project: 
-https://gabrli.github.io/React-game-app/
-
-# My top 3 vanilia JavaScript projects:
-
-# 1.Polites emial builder
-- https://github.com/Gabrli/Polites-Email-Builder
-# 2.Weather App
-- https://github.com/Gabrli/WeatherApp
-# 3. KanBan app
-- https://github.com/Gabrli/KanBanApp.github.io
-
-# 📱 Social Media: 
-- https://www.tiktok.com/@gabrysdev
+ 
+ 
+ 
+</div>
