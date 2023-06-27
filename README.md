@@ -27,9 +27,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![github-header-image](https://github.com/Gabrli/Gabrli/assets/110058841/e8a5205a-8a2b-4198-8788-a39565b0d7e4)
+
 
 ---
 
