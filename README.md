@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I love climbing and other sports.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&&logoColor=white)](https://gabrieldeveloper.gabrys564.repl.co/)
+
 
 ---
 
