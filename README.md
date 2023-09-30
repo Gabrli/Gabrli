@@ -7,9 +7,7 @@
 
 
 <div id="badges" align="center">
- <a href="https://gabrieldeveloper.gabrys564.repl.co/">
-   <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
- </a>
+
  <a href="https://www.instagram.com/gabrl18/">
    <img src="https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
