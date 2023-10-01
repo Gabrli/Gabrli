@@ -9,6 +9,10 @@
 <div id="badges" align="center">
 
  <a href="https://www.instagram.com/gabrl18/">
+   <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&website&logoColor=white" alt="Instagram Badge"/>
+ </a>
+
+ <a href="https://www.instagram.com/gabrl18/">
    <img src="https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
  <a href="https://discord.com/invite/r83JcYSp">
