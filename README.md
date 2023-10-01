@@ -9,7 +9,7 @@
 <div id="badges" align="center">
 
  <a href="https://www.instagram.com/gabrl18/">
-   <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&website&logoColor=white" alt="Instagram Badge"/>
+   <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&website&logoColor=white" alt="Instagram Badge"/>
  </a>
 
  <a href="https://www.instagram.com/gabrl18/">
