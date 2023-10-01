@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
 
- <a href="https://www.instagram.com/gabrl18/">
+ <a href="https://gabrli.github.io/GabrielDeveloperSite/">
    <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&website&logoColor=white" alt="Instagram Badge"/>
  </a>
 
