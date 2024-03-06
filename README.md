@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
 
- <a href="https://gabrli.github.io/GabrielDeveloperSite/">
+ <a href="https://portfolio-gabrli.vercel.app/">
    <img src="https://img.shields.io/badge/Website-violet?style=for-the-badge&website&logoColor=white" alt="Instagram Badge"/>
  </a>
 
