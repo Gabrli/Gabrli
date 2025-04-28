@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Gabriel Wiśniewski</h1>
-  <h2>Software Fullstack Engineer</h2>
+  <h2>Software Engineer</h2>
 
 </div>
 
