@@ -31,7 +31,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m 16 year-old guy and I'm working as a Software Engineer and contributing to frontend  for building web applications.
+- :telescope: I’m 17 year-old guy and I'm working as a Software Engineer and contributing to frontend  for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
